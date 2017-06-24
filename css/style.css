@@ -521,7 +521,7 @@ header p {
   display: inline-block;
   line-height: 30px;
   padding: 0 13px;
-  border-radius: 35%;
+  border-radius: 14px;
   background: #3e3e3e;
   font-size: 13px;
   font-weight: 700;
