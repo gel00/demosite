@@ -476,14 +476,9 @@ h1, h2, h3, h4, h5, h6 {
 
 /*-------------HEADER-----------------*/
 header {
+  position: relative;
   height: 107px;
   padding-top: 78px;
-}
-
-header {
-  position: relative;
-  width: 981px;
-  margin: 0 255px;
 }
 
 h1 {
