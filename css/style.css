@@ -517,10 +517,11 @@ header p {
   font-size: 11px;
   color: #6b6b6b;
 }
-#searchbox submit {
+#searchbox .submit {
   display: inline-block;
   line-height: 30px;
   padding: 0 13px;
+  border: none;
   border-radius: 14px;
   background: #3e3e3e;
   font-size: 13px;
